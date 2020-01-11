@@ -1,3 +1,13 @@
+### IT Security Telegram Channel
+
+1. [Telegram Link ](https://t.me/SecOpsChannel) - Lot other from the world of Security.
+
+### IT Security Mobile App to keep you updated..
+
+2. [AttackIO App ](https://attackio.app/) - The world of information security is now in your palm !!.
+
+
+
 # Red Teaming/Adversary Simulation Toolkit
 
 A collection of open source and commercial tools that aid in red team operations. This repository will help you during red team engagement. If you want to contribute to this list send me a pull request.
